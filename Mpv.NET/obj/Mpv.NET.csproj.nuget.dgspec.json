@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jan Zdarsky\\source\\mpvcrash\\Mpv.NET\\Mpv.NET.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jan Zdarsky\\source\\mpvcrash\\Mpv.NET\\Mpv.NET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jan Zdarsky\\source\\mpvcrash\\Mpv.NET\\Mpv.NET.csproj",
+        "projectName": "Mpv.NET",
+        "projectPath": "C:\\Users\\Jan Zdarsky\\source\\mpvcrash\\Mpv.NET\\Mpv.NET.csproj",
+        "packagesPath": "C:\\Users\\Jan Zdarsky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jan Zdarsky\\source\\mpvcrash\\Mpv.NET\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jan Zdarsky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net480"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net480",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net480",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Jan Zdarsky\source\repos\mpvCrash\Mpv.NET\bin\Debug\net480\Mpv.NET.dll
+C:\Users\Jan Zdarsky\source\repos\mpvCrash\Mpv.NET\bin\Debug\net480\Mpv.NET.pdb
+C:\Users\Jan Zdarsky\source\repos\mpvCrash\Mpv.NET\obj\Debug\net480\Mpv.NET.csproj.AssemblyReference.cache
+C:\Users\Jan Zdarsky\source\repos\mpvCrash\Mpv.NET\obj\Debug\net480\Mpv.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan Zdarsky\source\repos\mpvCrash\Mpv.NET\obj\Debug\net480\Mpv.NET.AssemblyInfoInputs.cache
+C:\Users\Jan Zdarsky\source\repos\mpvCrash\Mpv.NET\obj\Debug\net480\Mpv.NET.AssemblyInfo.cs
+C:\Users\Jan Zdarsky\source\repos\mpvCrash\Mpv.NET\obj\Debug\net480\Mpv.NET.csproj.CoreCompileInputs.cache
+C:\Users\Jan Zdarsky\source\repos\mpvCrash\Mpv.NET\obj\Debug\net480\Mpv.NET.dll
+C:\Users\Jan Zdarsky\source\repos\mpvCrash\Mpv.NET\obj\Debug\net480\Mpv.NET.pdb
